@@ -32,8 +32,9 @@ A feature-rich todo list application built with React that allows you to:
    ```bash
    git clone https://github.com/raza-shahi/react-todo-list.git
 
-Contact
-Shahid Raza - linkedin.com/in/shahid-raza-7a54b3185
+## Contact
+
+Shahid Raza - [linkedin.com/in/shahid-raza-7a54b3185](https://www.linkedin.com/in/shahid-raza-7a54b3185/)
 
 Project Link: https://github.com/raza-shahi/react-todo-list
 
